@@ -15,6 +15,9 @@ import scala.util.Random
 
 /**
  * Generates random data and feeds the kinesis stream
+ *
+ * Reference : Spark Streaming / Producers / Kinesis Word Producer by Databricks
+ *
  */
 
 
